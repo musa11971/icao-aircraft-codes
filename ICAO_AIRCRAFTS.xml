@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<icao>
+	<icao_aircraft>
+		<code>AP22</code>
+		<aircraft>Aeroprakt A-22 Foxbat / A-22 Valor / A-22 Vision</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>N262</code>
+		<aircraft>Aerospatiale (Nord) 262</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>S210</code>
+		<aircraft>Aerospatiale (Sud Aviation) Se.210 Caravelle</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>S601</code>
+		<aircraft>Aerospatiale SN.601 Corvette</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AT43</code>
+		<aircraft>Aerospatiale/Alenia ATR 42-300 / 320</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AT45</code>
+		<aircraft>Aerospatiale/Alenia ATR 42-500</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AT46</code>
+		<aircraft>Aerospatiale/Alenia ATR 42-600</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AT72</code>
+		<aircraft>Aerospatiale/Alenia ATR 72</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AT73</code>
+		<aircraft>Aerospatiale/Alenia ATR 72-200 series</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AT75</code>
+		<aircraft>Aerospatiale/Alenia ATR 72-500</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AT76</code>
+		<aircraft>Aerospatiale/Alenia ATR 72-600</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A30B</code>
+		<aircraft>Airbus A300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A306</code>
+		<aircraft>Airbus A300-600</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A3ST</code>
+		<aircraft>Airbus A300-600ST Beluga Freighter</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A310</code>
+		<aircraft>Airbus A310</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A318</code>
+		<aircraft>Airbus A318</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A319</code>
+		<aircraft>Airbus A319</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A19N</code>
+		<aircraft>Airbus A319neo</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A319</code>
+		<aircraft>Airbus A319Neo</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A320</code>
+		<aircraft>Airbus A320</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A20N</code>
+		<aircraft>Airbus A320neo</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A320</code>
+		<aircraft>Airbus A320Neo</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A321</code>
+		<aircraft>Airbus A321</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A21N</code>
+		<aircraft>Airbus A321neo</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A321</code>
+		<aircraft>Airbus A321Neo</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A332</code>
+		<aircraft>Airbus A330-200</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A333</code>
+		<aircraft>Airbus A330-300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A338</code>
+		<aircraft>Airbus A330-800Neo</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A339</code>
+		<aircraft>Airbus A330-900Neo</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A342</code>
+		<aircraft>Airbus A340-200</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A343</code>
+		<aircraft>Airbus A340-300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A345</code>
+		<aircraft>Airbus A340-500</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A346</code>
+		<aircraft>Airbus A340-600</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A35K</code>
+		<aircraft>Airbus A350-1000</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A359</code>
+		<aircraft>Airbus A350-900</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AN12</code>
+		<aircraft>Antonov AN-12</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A124</code>
+		<aircraft>Antonov AN-124 Ruslan</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A140</code>
+		<aircraft>Antonov AN-140</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A148</code>
+		<aircraft>Antonov An-148</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A158</code>
+		<aircraft>Antonov An-158</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A225</code>
+		<aircraft>Antonov An-225 Mriya</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AN24</code>
+		<aircraft>Antonov AN-24</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AN26</code>
+		<aircraft>Antonov AN-26</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AN28</code>
+		<aircraft>Antonov AN-28</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AN30</code>
+		<aircraft>Antonov AN-30</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AN32</code>
+		<aircraft>Antonov AN-32</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AN72</code>
+		<aircraft>Antonov AN-72 / AN-74</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>RJ1H</code>
+		<aircraft>Avro RJ100</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>RJ70</code>
+		<aircraft>Avro RJ70</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>RJ85</code>
+		<aircraft>Avro RJ85</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B461</code>
+		<aircraft>BAe 146-100</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B462</code>
+		<aircraft>BAe 146-200</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B463</code>
+		<aircraft>BAe 146-300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B190</code>
+		<aircraft>Beechcraft 1900</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>BE55</code>
+		<aircraft>Beechcraft Baron / 55 Baron</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>BE58</code>
+		<aircraft>Beechcraft Baron / 58 Baron</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B212</code>
+		<aircraft>Bell 212</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B412</code>
+		<aircraft>Bell 412</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B429</code>
+		<aircraft>Bell 429</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>BER2</code>
+		<aircraft>Beriev Be-200 Altair</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B703</code>
+		<aircraft>Boeing 707</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B712</code>
+		<aircraft>Boeing 717</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B720</code>
+		<aircraft>Boeing 720B</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B721</code>
+		<aircraft>Boeing 727-100</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B722</code>
+		<aircraft>Boeing 727-200</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B3JM</code>
+		<aircraft>Boeing 737 MAX 10</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B37M</code>
+		<aircraft>Boeing 737 MAX 7</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B737</code>
+		<aircraft>Boeing 737 MAX 7</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B38M</code>
+		<aircraft>Boeing 737 MAX 8</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B738</code>
+		<aircraft>Boeing 737 MAX 8</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B39M</code>
+		<aircraft>Boeing 737 MAX 9</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B739</code>
+		<aircraft>Boeing 737 MAX 9</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B732</code>
+		<aircraft>Boeing 737-200</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B733</code>
+		<aircraft>Boeing 737-300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B734</code>
+		<aircraft>Boeing 737-400</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B735</code>
+		<aircraft>Boeing 737-500</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B736</code>
+		<aircraft>Boeing 737-600</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B737</code>
+		<aircraft>Boeing 737-700</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B738</code>
+		<aircraft>Boeing 737-800</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B739</code>
+		<aircraft>Boeing 737-900</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>BLCF</code>
+		<aircraft>Boeing 747 LCF Dreamlifter</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B741</code>
+		<aircraft>Boeing 747-100</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B742</code>
+		<aircraft>Boeing 747-200</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B743</code>
+		<aircraft>Boeing 747-300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B744</code>
+		<aircraft>Boeing 747-400</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B748</code>
+		<aircraft>Boeing 747-8</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B74S</code>
+		<aircraft>Boeing 747SP</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B74R</code>
+		<aircraft>Boeing 747SR</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B752</code>
+		<aircraft>Boeing 757-200</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B753</code>
+		<aircraft>Boeing 757-300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B762</code>
+		<aircraft>Boeing 767-200</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B763</code>
+		<aircraft>Boeing 767-300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B764</code>
+		<aircraft>Boeing 767-400</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B772</code>
+		<aircraft>Boeing 777-200 / Boeing 777-200ER</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B77L</code>
+		<aircraft>Boeing 777-200LR / Boeing 777F</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B773</code>
+		<aircraft>Boeing 777-300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B77W</code>
+		<aircraft>Boeing 777-300ER</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B778</code>
+		<aircraft>Boeing 777-8</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B779</code>
+		<aircraft>Boeing 777-9</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B78X</code>
+		<aircraft>Boeing 787-10</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B788</code>
+		<aircraft>Boeing 787-8</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B789</code>
+		<aircraft>Boeing 787-9</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CL2T</code>
+		<aircraft>Bombardier 415</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CL30</code>
+		<aircraft>Bombardier BD-100 Challenger 300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>GL5T</code>
+		<aircraft>Bombardier BD-700 Global 5000</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>BCS1</code>
+		<aircraft>Bombardier CS100</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>BCS3</code>
+		<aircraft>Bombardier CS300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>GLEX</code>
+		<aircraft>Bombardier Global Express / Raytheon Sentinel</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>BA11</code>
+		<aircraft>British Aerospace (BAC) One Eleven</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>H25B</code>
+		<aircraft>British Aerospace 125 series / Hawker/Raytheon 700/800/800XP/850/900</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>H25C</code>
+		<aircraft>British Aerospace 125-1000 series / Hawker/Raytheon 1000</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>ATP</code>
+		<aircraft>British Aerospace ATP</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>JS31</code>
+		<aircraft>British Aerospace Jetstream 31</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>JS32</code>
+		<aircraft>British Aerospace Jetstream 32</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>JS41</code>
+		<aircraft>British Aerospace Jetstream 41</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CL60</code>
+		<aircraft>Canadair Challenger</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CL44</code>
+		<aircraft>Canadair CL-44</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CRJ1</code>
+		<aircraft>Canadair Regional Jet 100</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CRJX</code>
+		<aircraft>Canadair Regional Jet 1000</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CRJ2</code>
+		<aircraft>Canadair Regional Jet 200</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CRJ7</code>
+		<aircraft>Canadair Regional Jet 700</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CRJ9</code>
+		<aircraft>Canadair Regional Jet 900</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C212</code>
+		<aircraft>CASA / IPTN 212 Aviocar</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CN35</code>
+		<aircraft>CASA/IPTN CN-235</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C152</code>
+		<aircraft>Cessna 152</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C162</code>
+		<aircraft>Cessna 162</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C172</code>
+		<aircraft>Cessna 172</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C72R</code>
+		<aircraft>Cessna 172 Cutlass RG</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C77R</code>
+		<aircraft>Cessna 177 Cardinal RG</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C182</code>
+		<aircraft>Cessna 182 Skylane</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C208</code>
+		<aircraft>Cessna 208 Caravan</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C210</code>
+		<aircraft>Cessna 210 Centurion</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C25A</code>
+		<aircraft>Cessna Citation CJ2</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C25B</code>
+		<aircraft>Cessna Citation CJ3</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C25C</code>
+		<aircraft>Cessna Citation CJ4</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C56X</code>
+		<aircraft>Cessna Citation Excel</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C500</code>
+		<aircraft>Cessna Citation I</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C550</code>
+		<aircraft>Cessna Citation II</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C650</code>
+		<aircraft>Cessna Citation III, VI, VII</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C510</code>
+		<aircraft>Cessna Citation Mustang</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C680</code>
+		<aircraft>Cessna Citation Sovereign</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C560</code>
+		<aircraft>Cessna Citation V</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C750</code>
+		<aircraft>Cessna Citation X</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C525</code>
+		<aircraft>Cessna CitationJet</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CVLP</code>
+		<aircraft>Convair CV-240 &amp; -440</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CVLT</code>
+		<aircraft>Convair CV-580, Convair CV-600, Convair CV-640</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C46</code>
+		<aircraft>Curtiss C-46 Commando</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>F2TH</code>
+		<aircraft>Dassault Falcon 2000</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>FA7X</code>
+		<aircraft>Dassault Falcon 7X</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>F900</code>
+		<aircraft>Dassault Falcon 900</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DHC2</code>
+		<aircraft>De Havilland Canada DHC-2 Beaver</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DH2T</code>
+		<aircraft>De Havilland Canada DHC-2 Turbo-Beaver</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DHC3</code>
+		<aircraft>De Havilland Canada DHC-3 Otter</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DHC4</code>
+		<aircraft>De Havilland Canada DHC-4 Caribou</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DHC5</code>
+		<aircraft>De Havilland Canada DHC-5 Buffalo</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DHC6</code>
+		<aircraft>De Havilland Canada DHC-6 Twin Otter</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DHC7</code>
+		<aircraft>De Havilland Canada DHC-7 Dash 7</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DH8A</code>
+		<aircraft>De Havilland Canada DHC-8-100 Dash 8 / 8Q</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DH8B</code>
+		<aircraft>De Havilland Canada DHC-8-200 Dash 8 / 8Q</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DH8C</code>
+		<aircraft>De Havilland Canada DHC-8-300 Dash 8 / 8Q</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DH8D</code>
+		<aircraft>De Havilland Canada DHC-8-400 Dash 8Q</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DOVE</code>
+		<aircraft>De Havilland DH.104 Dove</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>HERN</code>
+		<aircraft>De Havilland DH.114 Heron</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DC10</code>
+		<aircraft>Douglas DC-10</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DC3</code>
+		<aircraft>Douglas DC-3</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DC6</code>
+		<aircraft>Douglas DC-6</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DC85</code>
+		<aircraft>Douglas DC-8-50</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DC86</code>
+		<aircraft>Douglas DC-8-62</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DC87</code>
+		<aircraft>Douglas DC-8-72</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DC91</code>
+		<aircraft>Douglas DC-9-10</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DC92</code>
+		<aircraft>Douglas DC-9-20</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DC93</code>
+		<aircraft>Douglas DC-9-30</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DC94</code>
+		<aircraft>Douglas DC-9-40</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>DC95</code>
+		<aircraft>Douglas DC-9-50</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E170</code>
+		<aircraft>Embraer 170</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E75L</code>
+		<aircraft>Embraer 175 (long wing)</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E75S</code>
+		<aircraft>Embraer 175 (short wing)</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E190</code>
+		<aircraft>Embraer 190</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E195</code>
+		<aircraft>Embraer 195</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E110</code>
+		<aircraft>Embraer EMB 110 Bandeirante</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E120</code>
+		<aircraft>Embraer EMB 120 Brasilia</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E545</code>
+		<aircraft>Embraer Legacy 450</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E35L</code>
+		<aircraft>Embraer Legacy 600 / Legacy 650</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E190</code>
+		<aircraft>Embraer Lineage 1000</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E50P</code>
+		<aircraft>Embraer Phenom 100</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E55P</code>
+		<aircraft>Embraer Phenom 300</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E135</code>
+		<aircraft>Embraer RJ135</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E135</code>
+		<aircraft>Embraer RJ140</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>E145</code>
+		<aircraft>Embraer RJ145</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>S65C</code>
+		<aircraft>Eurocopter (Aerospatiale) SA365C / SA365N Dauphin 2</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>B105</code>
+		<aircraft>Eurocopter (MBB) Bo.105</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AS32</code>
+		<aircraft>Eurocopter AS332 Super Puma</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AS50</code>
+		<aircraft>Eurocopter AS350 Écureuil / AS355 Ecureuil 2 / AS550 Fennec</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>EC20</code>
+		<aircraft>Eurocopter EC120 Colibri / Harbin HC120</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>EC35</code>
+		<aircraft>Eurocopter EC135 / EC635</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>EC45</code>
+		<aircraft>Eurocopter EC145</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>EC25</code>
+		<aircraft>Eurocopter EC225 Super Puma</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>EV97</code>
+		<aircraft>EV-97 EuroStar / EV-97 Harmony</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>EVSS</code>
+		<aircraft>Evektor SportStar</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>J328</code>
+		<aircraft>Fairchild Dornier 328JET</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>D228</code>
+		<aircraft>Fairchild Dornier Do.228</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>D328</code>
+		<aircraft>Fairchild Dornier Do.328</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>F100</code>
+		<aircraft>Fokker 100</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>F50</code>
+		<aircraft>Fokker 50</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>F70</code>
+		<aircraft>Fokker 70</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>F27</code>
+		<aircraft>Fokker F27 Friendship</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>F28</code>
+		<aircraft>Fokker F28 Fellowship</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>NOMA</code>
+		<aircraft>Government Aircraft Factories N22B / N24A Nomad</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>G21</code>
+		<aircraft>Grumman G-21 Goose</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>G73T</code>
+		<aircraft>Grumman G-73 Turbo Mallard</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>G159</code>
+		<aircraft>Gulfstream Aerospace G-159 Gulfstream I</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>G280</code>
+		<aircraft>Gulfstream G280</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>GLF6</code>
+		<aircraft>Gulfstream G650</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>GLF4</code>
+		<aircraft>Gulfstream IV</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>GLF5</code>
+		<aircraft>Gulfstream V</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AC68</code>
+		<aircraft>Gulfstream/Rockwell (Aero) Commander</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>AC90</code>
+		<aircraft>Gulfstream/Rockwell (Aero) Turbo Commander</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>Y12</code>
+		<aircraft>Harbin Yunshuji Y12</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A748</code>
+		<aircraft>Hawker Siddeley HS 748</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>HDJT</code>
+		<aircraft>Honda HA-420</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>A5</code>
+		<aircraft>ICON A5</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>I114</code>
+		<aircraft>Ilyushin IL114</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>IL18</code>
+		<aircraft>Ilyushin IL18</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>IL62</code>
+		<aircraft>Ilyushin IL62</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>IL76</code>
+		<aircraft>Ilyushin IL76</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>IL86</code>
+		<aircraft>Ilyushin IL86</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>IL96</code>
+		<aircraft>Ilyushin IL96</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>WW24</code>
+		<aircraft>Israel Aircraft Industries 1124 Westwind</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>JU52</code>
+		<aircraft>Junkers Ju52/3M</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>LJ35</code>
+		<aircraft>Learjet 35 / 36 / C-21A</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>LJ60</code>
+		<aircraft>Learjet 60</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>L410</code>
+		<aircraft>LET 410</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>L101</code>
+		<aircraft>Lockheed L-1011 Tristar</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>CONI</code>
+		<aircraft>Lockheed L-1049 Super Constellation</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>C130</code>
+		<aircraft>Lockheed L-182 / 282 / 382 (L-100) Hercules</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>L188</code>
+		<aircraft>Lockheed L-188 Electra</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>MD11</code>
+		<aircraft>McDonnell Douglas MD-11</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>MD81</code>
+		<aircraft>McDonnell Douglas MD-81</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>MD82</code>
+		<aircraft>McDonnell Douglas MD-82</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>MD83</code>
+		<aircraft>McDonnell Douglas MD-83</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>MD87</code>
+		<aircraft>McDonnell Douglas MD-87</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>MD88</code>
+		<aircraft>McDonnell Douglas MD-88</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>MD90</code>
+		<aircraft>McDonnell Douglas MD-90</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>EXPL</code>
+		<aircraft>MD Helicopters MD900 Explorer</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>MI24</code>
+		<aircraft>Mil Mi-24 / Mi-25 / Mi-35</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>MI8</code>
+		<aircraft>MIL Mi-8 / Mi-17 / Mi-171 / Mil-172</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>MU2</code>
+		<aircraft>Mitsubishi Mu-2</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>YS11</code>
+		<aircraft>NAMC YS-11</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>P68</code>
+		<aircraft>Partenavia P.68</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>TRIS</code>
+		<aircraft>Pilatus Britten-Norman BN-2A Mk III Trislander</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>BN2P</code>
+		<aircraft>Pilatus Britten-Norman BN-2A/B Islander</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>PC12</code>
+		<aircraft>Pilatus PC-12</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>PC6T</code>
+		<aircraft>Pilatus PC-6 Turbo Porter</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>P28B</code>
+		<aircraft>Piper PA-28 (above 200 hp)</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>P28A</code>
+		<aircraft>Piper PA-28 (up to 180 hp)</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>PA31</code>
+		<aircraft>Piper PA-31 Navajo</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>PA44</code>
+		<aircraft>Piper PA-44 Seminole</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>PA46</code>
+		<aircraft>Piper PA-46</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>PISI</code>
+		<aircraft>Pipistrel Sinus[3]</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>PITA</code>
+		<aircraft>Pipistrel Taurus[3]</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>PIVI</code>
+		<aircraft>Pipistrel Virus[3]</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>ATL</code>
+		<aircraft>Robin ATL</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>R200</code>
+		<aircraft>Robin HR200/R2000 series, Alpha160A</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>SB20</code>
+		<aircraft>Saab 2000</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>SF34</code>
+		<aircraft>Saab SF340A/B</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>BELF</code>
+		<aircraft>Shorts SC-5 Belfast</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>SC7</code>
+		<aircraft>Shorts SC-7 Skyvan</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>SH33</code>
+		<aircraft>Shorts SD.330</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>SH36</code>
+		<aircraft>Shorts SD.360</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>S58T</code>
+		<aircraft>Sikorsky S-58T</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>S61</code>
+		<aircraft>Sikorsky S-61</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>S76</code>
+		<aircraft>Sikorsky S-76</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>S92</code>
+		<aircraft>Sikorsky S-92</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>TB20</code>
+		<aircraft>Socata TB-20 Trinidad</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>SU95</code>
+		<aircraft>Sukhoi Superjet 100</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>TRF1</code>
+		<aircraft>Team Rocket F1</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>P06T</code>
+		<aircraft>Tecnam P2006T</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>ECHO</code>
+		<aircraft>Tecnam P92 Echo / P92 Eaglet / P92 SeaSky</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>TL20</code>
+		<aircraft>TL Ultralight TL-96 Star / TL-2000 Sting</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>T134</code>
+		<aircraft>Tupolev Tu-134</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>T144</code>
+		<aircraft>Tupolev Tu-144</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>T154</code>
+		<aircraft>Tupolev Tu-154</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>T204</code>
+		<aircraft>Tupolev Tu-204 / Tu-214</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>YK40</code>
+		<aircraft>Yakovlev Yak-40</aircraft>
+	</icao_aircraft>
+	<icao_aircraft>
+		<code>YK42</code>
+		<aircraft>Yakovlev Yak-42</aircraft>
+	</icao_aircraft>
+</icao>
